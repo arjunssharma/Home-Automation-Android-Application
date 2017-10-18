@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="a" type="id">false</item>
+    <item name="about" type="id">false</item>
+    <item name="b" type="id">false</item>
+    <item name="button_scan" type="id">false</item>
+    <item name="c" type="id">false</item>
+    <item name="d" type="id">false</item>
+    <item name="discoverable" type="id">false</item>
+    <item name="down" type="id">false</item>
+    <item name="e" type="id">false</item>
+    <item name="f" type="id">false</item>
+    <item name="g" type="id">false</item>
+    <item name="h" type="id">false</item>
+    <item name="info" type="id">false</item>
+    <item name="left" type="id">false</item>
+    <item name="new_devices" type="id">false</item>
+    <item name="paired_devices" type="id">false</item>
+    <item name="right" type="id">false</item>
+    <item name="scan" type="id">false</item>
+    <item name="speed" type="id">false</item>
+    <item name="textView1" type="id">false</item>
+    <item name="title_new_devices" type="id">false</item>
+    <item name="title_paired_devices" type="id">false</item>
+    <item name="up" type="id">false</item>
+    <string name="about_text">Blue Control is a basic universal Remote Control for Blue-Tooth enabled serial devices such as Blue Tooth modules connected to a microcontroller. For each button pressed the corresponding ASCII code for the label will be sent. For example pressing buttons A-H will send the charactes a - h. The up, down, left, right, and center buttons will send U,D,L,R, and C characters. Hopefully this will inspire people to create alot of fun Blue-Tooth Controlled devices.</string>
+    <string name="about_title">Blue-Tooth Control by Arjun Sharma</string>
+    <string name="app_name">BluControl</string>
+    <string name="hello">Hello World, Sample!</string>
+    <string name="splash_screen">SplashScreen</string>
+</resources>

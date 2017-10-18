@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="about">false</item>
+    <item type="id" name="title_paired_devices">false</item>
+    <item type="id" name="paired_devices">false</item>
+    <item type="id" name="title_new_devices">false</item>
+    <item type="id" name="new_devices">false</item>
+    <item type="id" name="button_scan">false</item>
+    <item type="id" name="up">false</item>
+    <item type="id" name="right">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="left">false</item>
+    <item type="id" name="down">false</item>
+    <item type="id" name="speed">false</item>
+    <item type="id" name="a">false</item>
+    <item type="id" name="b">false</item>
+    <item type="id" name="c">false</item>
+    <item type="id" name="d">false</item>
+    <item type="id" name="e">false</item>
+    <item type="id" name="f">false</item>
+    <item type="id" name="g">false</item>
+    <item type="id" name="h">false</item>
+    <item type="id" name="scan">false</item>
+    <item type="id" name="discoverable">false</item>
+    <item type="id" name="info">false</item>
+</resources>

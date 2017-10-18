@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Sample!</string>
+    <string name="app_name">BluControl</string>
+    <string name="about_text">Blue Control is a basic universal Remote Control for Blue-Tooth enabled serial devices such as Blue Tooth modules connected to a microcontroller. For each button pressed the corresponding ASCII code for the label will be sent. For example pressing buttons A-H will send the charactes a - h. The up, down, left, right, and center buttons will send U,D,L,R, and C characters. Hopefully this will inspire people to create alot of fun Blue-Tooth Controlled devices.</string>
+    <string name="about_title">Blue-Tooth Control by Arjun Sharma</string>
+    <string name="splash_screen">SplashScreen</string>
+</resources>

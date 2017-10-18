@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firstscreen.xml",
+        "source": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\firstscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\layout\\device_list.xml"
+    }
+]

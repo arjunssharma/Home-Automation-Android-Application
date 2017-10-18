@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:2:70-102
+		INJECTED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:3:5-13:19
+	android:label
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:3:48-80
+	android:icon
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:3:18-47
+activity#com.gundel.bluecontrol.FirstScreen
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:4:9-9:20
+	android:label
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:4:19-51
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:4:52-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:6:17-68
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:7:17-76
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:7:27-74
+activity#com.gundel.bluecontrol.DeviceListActivity
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:10:9-99
+	android:theme
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:10:54-97
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:10:19-53
+activity#com.gundel.bluecontrol.Main
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:11:9-143
+	android:screenOrientation
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:11:39-76
+	android:theme
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:11:77-141
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:11:19-38
+activity#com.gundel.bluecontrol.About
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:12:9-121
+	android:label
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:12:19-54
+	android:theme
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:12:76-119
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:12:55-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from C:\Users\arjun\StudioProjects\Home_Automation\app\src\main\AndroidManifest.xml:15:22-71

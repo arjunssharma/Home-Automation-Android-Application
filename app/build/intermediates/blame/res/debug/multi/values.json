@@ -1,0 +1,350 @@
+[
+    {
+        "outputFile": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 45,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 41,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 51,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 41,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 52,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 44,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 41,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 41,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 41,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 41,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endColumn": 44,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 44,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 51,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 54,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 45,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 44,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 45,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 49,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 57,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 60,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 42,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 500,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 74,
+                    "endOffset": 1704
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 74,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1709,
+                    "endColumn": 47,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1757,
+                    "endColumn": 54,
+                    "endOffset": 1807
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1812,
+                    "endColumn": 54,
+                    "endOffset": 1862
+                },
+                "from": {
+                    "file": "C:\\Users\\arjun\\StudioProjects\\Home_Automation\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
